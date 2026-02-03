@@ -7,14 +7,14 @@ Neural nets, neocortex research, and quantitative trading systems—everything I
 
 </div>
 
-<p align="right">
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=YehyunLee&bg_color=0d1117&color=57c7ff&line=57c7ff&point=f09d51&hide_border=true&radius=8"
     alt="Yehyun Lee GitHub Activity Graph"
     width="420"
   />
   <br />
-  <sub>Hand-written commits only — no cron scripts, bots, or fake activity.</sub>
+  <sub>Past 30 days of hand-written commits — no cron scripts, bots, or fake activity.</sub>
 </p>
 
 ---
