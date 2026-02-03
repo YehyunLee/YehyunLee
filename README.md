@@ -16,7 +16,7 @@ Neural nets, neocortex research, and quantitative trading systems—everything I
 
 #### 🧠 What I’m obsessed with
 - Neocortex-inspired learning systems  
-- Quant trading infra (Python/C/TS + custom research stack)  
+- Quant trading to back my future startup/lab
 - Neuroscience x ML experiments for building AGI
 
 #### 🌐 Links
