@@ -37,7 +37,6 @@ Neural nets, neocortex research, and quantitative trading systems—everything I
 | Devpost | [devpost.com/YehyunLee](https://devpost.com/YehyunLee?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) |
 | X / Twitter | [@thomasLe_e](https://x.com/thomasLe_e) |
 | LinkedIn | [linkedin.com/in/yehyunlee](https://www.linkedin.com/in/yehyunlee) |
-| GitHub | [github.com/YehyunLee](https://github.com/YehyunLee) |
 
 #### 🛠 Skills
 
